@@ -4,6 +4,8 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>ggg
   kkk
+
+  jjj
 </template>
 
 <script>
